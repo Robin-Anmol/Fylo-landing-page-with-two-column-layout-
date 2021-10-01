@@ -17,7 +17,7 @@ This is a solution to the [Fylo landing page with two column layout challenge on
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://robin-anmol.github.io/Fylo-landing-page-with-two-column-layout-/)
 
 ## My process
 
@@ -29,5 +29,5 @@ This is a solution to the [Fylo landing page with two column layout challenge on
 
 ## Author
 
-- linkedin ()
+- linkedin (https://www.linkedin.com/in/anmol-gangwar-8247291ba/)
 - Frontend Mentor - [@Robin-Anmol](https://www.frontendmentor.io/profile/Robin-Anmol)
